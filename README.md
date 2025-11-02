@@ -1,51 +1,76 @@
-<h1 align="center">Hi 👋, I'm Malhar Kulkarni</h1>
-<h3 align="center">Full-Stack Developer | MERN | C++ | System Design | AWS</h3>
+<h1 align="center">Hi 👋, I'm Malhar</h1>
+<h3 align="center">Software Developer | MERN | C++ | System Design & Cloud Enthusiast</h3>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rkm2026&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **MERN full-stack projects & scalable system design**  
-- 🌱 Learning **High-Level System Design, AWS (EC2, S3, IAM, Lambda), and DevOps basics**  
-- 💻 Strong in **Data Structures & Algorithms (C++)** and **Backend Architecture**  
-- 🎯 Goal: Crack top product-based companies & build scalable real-world products  
-- 📫 Reach me at: `malharkulkarni2004@gmail.com`
+- 💻 MERN Stack Developer with strong C++ & CS fundamentals  
+- ☁️ Familiar with AWS, System Design, and scalable applications  
+- 🛠 Building impactful projects & continuously learning  
+- 📫 Reach me at **malharkulkarni2004@gmail.com**
 
 ---
 
-### 🛠 Tech Stack  
-| Area | Technologies |
-|------|--------------|
-| **Languages** | C++, JavaScript (ES6+), TypeScript, Python (basic) |
-| **Frontend** | React.js, Next.js, Redux Toolkit, Tailwind CSS |
-| **Backend** | Node.js, Express.js, REST APIs, JWT Auth |
-| **Databases** | MongoDB, PostgreSQL (basic), Mongoose |
-| **Cloud & DevOps** | AWS EC2, S3, IAM, GitHub Actions, Docker (learning) |
-| **System Design** | Monolith vs Microservices, Load Balancers, Caching (Redis), Database Sharding, CAP Theorem |
-| **Tools** | Git, GitHub, Postman, VS Code, Figma |
+### 🌐 Connect With Me  
+<p align="left">
+<a href="https://linkedin.com/in/rajmalharkulkarni" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="https://www.leetcode.com/rkm_2004" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
+</p>
 
 ---
 
-### 📂 Featured Projects
+### 🛠️ Languages & Tools  
+<p align="left">
+<!-- Row 1 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 
-#### 🟢 **1. Real-Time Code Editor (MERN + WebSockets)**
-#### 🟢 **1. API GATEWAY (EXPRESS JS , AXIOS , REDIS)**
-#### 🟢 **1. AI SUPPORT ASSISTANT (BIGQUERY AI )**
+<!-- Row 2 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 
-
-
-
-### 🤝 Connect with Me  
-- 💼 LinkedIn: [https://www.linkedin.com/in/rajmalharkulkarni/](#)  
-- 🌐 Portfolio Website: _Coming Soon_  
-- 📧 Email: `malharkulkarni2004@gmail.com`
+<!-- Row 3 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+</p>
 
 ---
 
-### ⚡ Fun Facts  
-- 💬 Ask me about **System Design, MERN, AWS, DSA using C++**  
-- 🎧 I code better with lo-fi + coffee  
-- ✈ Dream: Leverage new tech and collaborate with curious engineers  
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rkm2026&show_icons=true&locale=en&layout=compact" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkm2026&show_icons=true&locale=en" alt="GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkm2026" alt="GitHub streak"/>
+</p>
 
 ---
 
-⭐ *If you like my work, don’t forget to star the repos and follow me on GitHub!*
+### 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rkm2026&margin-w=15&row=1" alt="trophies"/>
+</p>
+
+---
+
+✨ *Thanks for visiting! Let's build something amazing together.*  
